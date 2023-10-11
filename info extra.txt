@@ -1,0 +1,2 @@
+funciones mysql info
+https://www.w3schools.com/sql/func_mysql_lower.asp
